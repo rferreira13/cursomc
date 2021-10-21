@@ -17,5 +17,6 @@ Neste projeto são utilizadas:
     Entidades fracas (ElementCollection)
     Associações direcionadas
     
-![Objetivos_especificos](objetivos_especificos.png)
+![Objetivos_especificos](objetivos_especificos.PNG)
+![Objetivos_especificos2](objetivos_especificos2.PNG)
 
