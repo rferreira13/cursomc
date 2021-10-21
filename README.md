@@ -1,6 +1,9 @@
 # cursomc
 
 Repositório para o estudo de caso do curso - Udemy sobre UML (Unified Modeling Language)
+
+Uso da plataforma Java, com Spring Boot e JPA. Implementação do modelo completo, com criação de uma instância do modelo em Java, e geração da base de dados relacional automaticamente. Por fim, são disponibilizados endpoints REST para recuperar e apresentar os dados em formato JSON.
+
 Neste projeto são utilizadas:
 
     Leitura e entendimento do diagrama de classes
